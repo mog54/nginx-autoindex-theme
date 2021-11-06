@@ -4,7 +4,7 @@
 
 Clone the repository into a root hidden .theme folder
 
-    git clone https://github.com/manala/nginx-autoindex-theme.git .theme
+    git clone https://github.com/mog54/nginx-autoindex-theme.git .theme
 
 Add the following parameters to your nginx configuration
 
